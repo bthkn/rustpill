@@ -1,6 +1,8 @@
 # RustPill
 
-Basic "blink" hello world programm for [STM32F103C8T6][stcom-stm32f103c8] based «Blue Pill» dev board
+Basic "blink" hello world programm for [STM32F103C8T6][stcom-stm32f103c8] based «Blue Pill» dev board.
+
+Based on **@lupyuen** project [stm32-blue-pill-rust](https://github.com/lupyuen/stm32-blue-pill-rust).
 
 Peripheral | STM32F103C8T6
 ------------ | -------------
